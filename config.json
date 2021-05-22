@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Doctor oidar",
+        "albums": [
+            {
+                "title": "The queens of lambs",
+                "songs": [ 
+                    {
+                        "title" : "Onion",
+                        "length": "5:15"
+                    },
+                    {
+                        "title" : "Vnion",
+                        "length": "6:15"
+                    },
+                    {
+                        "title" : "JKnion",
+                        "length": "7:15"
+                    }
+
+                ]
+            },
+            {
+                "title": "The queens of lambs",
+                "songs": [ 
+                    {
+                        "title" : "Onion",
+                        "length": "5:15"
+                    },
+                    {
+                        "title" : "Vnion",
+                        "length": "6:15"
+                    },
+                    {
+                        "title" : "JKnion",
+                        "length": "7:15"
+                    }
+
+                ]
+            }
+        ]
+    }
+]
